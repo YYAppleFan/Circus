@@ -11,7 +11,7 @@
 
 马戏团Wiki：[大明·马戏团必知百科](https://github.com/YYAppleFan/Circus/wiki)
 
-马戏团宪章：[大明·马戏团宪章全文]()
+马戏团宪章：[大明·马戏团宪章全文](https://github.com/YYAppleFan/Circus/tree/Charter)
 
 马戏团宪法：[大明·马戏团宪法全文]()
 
