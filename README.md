@@ -1,11 +1,13 @@
 # 大明·马戏团宪章
-本宪章着重于团的基本原则的定论以及基本的职能，是团的不可动摇原则
+本宪章着重于团的基本原则的定论以及基本的职能，是团的不可动摇的原则
 
 ## 目录
-* [一 总则]()
-* [二 权力系统]()
-* [三 意识形态]()
-* [四 其它]()
+* [一 总则](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#%E4%B8%80-%E6%80%BB%E5%88%99)
+* [二 权力系统](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#%E4%BA%8C-%E6%9D%83%E5%8A%9B%E7%B3%BB%E7%BB%9F)
+  * [2.1 选举与任期](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#21-%E9%80%89%E4%B8%BE%E4%B8%8E%E4%BB%BB%E6%9C%9F)
+  * [2.2 权力的分配](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#22-%E6%9D%83%E5%8A%9B%E7%9A%84%E5%88%86%E9%85%8D)
+* [三 意识形态](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#%E4%B8%89-%E6%84%8F%E8%AF%86%E5%BD%A2%E6%80%81)
+* [四 其它](https://github.com/YYAppleFan/Circus/blob/Charter/README.md#%E5%9B%9B-%E5%85%B6%E5%AE%83)
 
 # 一 总则
 1. 马戏团（以下简称“团”）永远的名誉主席是朱明先生。团的思想指导员为丁琦。
@@ -55,4 +57,4 @@
 5. 新马列主义和“三个蛤蟆”重要思想均为纪念江泽民主席而专设的思想。
 
 ## 四 其它
-1. 党的指导视频为“朱明教理财”。
+1. 团的指导视频为“朱明教理财”。
