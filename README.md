@@ -2,6 +2,11 @@
   
 <p align="center">这只是一个坚持新马克思列宁主义、屈远峰思想、锤子理论、“三个蛤蟆”重要思想的团组织</p>
 
+<p align="center">
+<a href="https://github.com/YYAppleFan/Circus/tree/Charter">宪章</a> ·
+<a href="https://github.com/YYAppleFan/Circus/wiki">Wiki</a>
+</p>
+
 ***
 
 # 团情简介
@@ -12,12 +17,6 @@
 创立地点：中华人民帝国南直隶苏州府第九监狱朱明阁
 
 创立者：敬仰朱明的群众
-
-马戏团Wiki：[大明·马戏团必知百科](https://github.com/YYAppleFan/Circus/wiki)
-
-马戏团宪章：[大明·马戏团宪章全文](https://github.com/YYAppleFan/Circus/tree/Charter)
-
-马戏团宪法：[大明·马戏团宪法全文]()
 
 # 前身新共党简介
 
